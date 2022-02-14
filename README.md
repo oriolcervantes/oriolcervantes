@@ -13,7 +13,7 @@ I am a creative dev who loves to work for inspiring designers with crazy ideas. 
 :zap: My happy place is in CSS.<br>
 
 ## Design
-:pencil2: Experienced in wireframing, user journeys and Figma.<br>
+:pencil2: Experienced in wireframing, user journeys and Figma prototyping.<br>
 :pencil2: Sensible to brand identity and communicating through design.<br>
 :pencil2: Command of Adobe Creative Suite (inDesign, Illustrator, Photoshop, Premiere, After Effects).<br>
 :pencil2: Typography kink.<br>
