@@ -5,7 +5,7 @@
 :herb: Based in Barcelona<br>
 
 ## About me
-I am a creative dev who loves to work for inspiring designers with crazy ideas. I have experience in both the worlds of design and development, and I stand particularly comfortable in between both, having fun while connecting them. <br>
+:dragon: I am a creative dev who loves to work for inspiring designers with crazy ideas. I have experience in both the worlds of design and development, and I stand particularly comfortable in between both, having fun while connecting them. <br>
 
 ## Tech
 :zap: I have worked mostly with React, NextJs, Redux, Express, PostgreSQL and MongoDB.<br>
