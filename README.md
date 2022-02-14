@@ -12,7 +12,7 @@ I am a creative dev who loves to work for inspiring designers with crazy ideas. 
 :zap: I have played with Angular, NestJs, Koa, TypeORM, GraphQL and Docker.<br>
 :zap: My happy place is in CSS.<br>
 
-## Desig
+## Design
 :pencil2: Experienced in wireframing, user journeys and Figma.<br>
 :pencil2: Sensible to brand identity and communicating through design.<br>
 :pencil2: Command of Adobe Creative Suite (inDesign, Illustrator, Photoshop, Premiere, After Effects).<br>
